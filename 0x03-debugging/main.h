@@ -5,4 +5,4 @@
 
 void postitive_or_negative(int i);
 
-3endif /* MAIN_H */
+#endif /* MAIN_H */
