@@ -6,7 +6,6 @@
  */
 
 int main(void)
-
 {
 	int sum = 0;
 	int  i;
@@ -18,4 +17,5 @@ int main(void)
 	}
 
 	printf("%d\n", sum);
+	return 0;
 }
